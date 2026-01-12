@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MedCalc AI Pro",
+  "description": "A comprehensive medical calculator featuring standard clinical formulas and an AI-powered assistant for complex dosage reasoning and medical interpretations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
